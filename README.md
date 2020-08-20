@@ -1,2 +1,2 @@
-# fire
-Firebase and Firestore playground, using react.
+# fire 🔥
+Firebase and Firestore playground, using React.
